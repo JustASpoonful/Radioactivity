@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10",
+  "minecraft:geometry": {
+    "description": {
+      "identifier": "geometry.gas_mask",
+      "texture_width": 16,
+      "texture_height": 16
+    },
+    "bones": [
+      {
+        "name": "gasmask",
+        "pivot": [0, 0, 0],
+        "url": "textures/items/gas_mask.png"
+      }
+    ]
+  }
+}
