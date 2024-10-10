@@ -1,5 +1,5 @@
 {
-  "values": [
-    "functions/toxic_air"
-  ]
+    "values": [
+        "toxicsystem:toxic_air"
+    ]
 }
