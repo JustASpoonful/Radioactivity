@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Radioactivity Resource",
-    "description": "RADIOACTIVITY",
-    "uuid": "8bbf5e41-6536-4f5f-96f8-69fa26230e92",
+    "name": "Radioactivity R",
+    "description": "Adds Radioactiveness",
+    "uuid": "0f33ff34-1902-41a4-cc48-0c0e04d1bb4c",
     "version": [
       1,
       0,
@@ -11,28 +11,19 @@
     ],
     "min_engine_version": [
       1,
-      16,
+      17,
       0
     ]
   },
   "modules": [
     {
       "type": "resources",
-      "description": "_",
-      "uuid": "f59b35ae-dd50-4279-b9a0-6b3ec48d2b00",
+      "uuid": "db596067-78de-3bfe-d432-f4205ccd5151",
       "version": [
         1,
         0,
         0
       ]
     }
-  ],
-  "capabilities": {
-    "experimental_custom_ui": false,
-    "chemistry": false
-  },
-  "metadata": {
-    "authors": "SuperbPug",
-    "url": " "
-  }
+  ]
 }
