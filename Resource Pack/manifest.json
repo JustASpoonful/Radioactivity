@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Radioactivity Resource",
+        "name": "RadioactivityR",
+        "uuid": "h3g2f1e4-5678-90ab-cdef-1234567890ab",  // Unique UUID
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "i3h2g1f4-5678-90ab-cdef-1234567890cd",  // Unique UUID
+            "version": [1, 0, 0]
+        },
+        {
+            "type": "resources",
+            "uuid": "j3i2h1g4-5678-90ab-cdef-1234567890ef",  // Unique UUID
+            "version": [1, 0, 0]
+        }
+    ]
+}
