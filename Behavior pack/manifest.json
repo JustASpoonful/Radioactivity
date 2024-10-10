@@ -1,16 +1,38 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Radioactivity Behavior Pack",
-    "name": "Radioactivity B",
-    "uuid": "05cbf3fa-79b1-4b6c-b5fd-6d9a59f6adb2",
-    "version": [1, 0, 0]
+    "name": "Radioactivity Behavior",
+    "description": "RADIOACTIVITY",
+    "uuid": "7707d6e5-fa6d-4c66-998c-5b66e9654354",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "f6354b52-dc1e-40f6-b588-994112113e43",
-      "version": [1, 0, 0]
+      "description": "_",
+      "uuid": "b913115a-fb22-402c-9021-c6f5ddbe081b",
+      "version": [
+        1,
+        0,
+        0
+      ]
     }
-  ]
+  ],
+  "capabilities": {
+    "experimental_custom_ui": false,
+    "chemistry": false
+  },
+  "metadata": {
+    "authors": " ",
+    "url": " "
+  }
 }
