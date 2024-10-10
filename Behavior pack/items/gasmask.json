@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10",
+    "minecraft:armor_item": {
+        "description": {
+            "identifier": "minecraft:gas_mask",
+            "category": "Armor",
+            "is_experimental": false,
+            "is_dyed": false,
+            "use_animation": "none",
+            "icon": "textures/items/Gasmask.png"
+        },
+        "components": {
+            "minecraft:icon": "textures/items/Gasmask.png",
+            "minecraft:armor": {
+                "protection": 2,  
+                "toughness": 0,  
+                "slot": "head"    
+            }
+        }
+    }
+}
