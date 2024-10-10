@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Radioactivity Behavior",
-    "description": "RADIOACTIVITY",
-    "uuid": "7707d6e5-fa6d-4c66-998c-5b66e9654354",
+    "name": "Radioactivity B",
+    "description": "Adds Radioactiveness behavior!",
+    "uuid": "d372d3f6-b594-a33f-1ea4-65e2e6c920d5",
     "version": [
       1,
       0,
@@ -11,28 +11,19 @@
     ],
     "min_engine_version": [
       1,
-      16,
+      17,
       0
     ]
   },
   "modules": [
     {
       "type": "data",
-      "description": "_",
-      "uuid": "b913115a-fb22-402c-9021-c6f5ddbe081b",
+      "uuid": "751a7c00-3e05-1b19-6ae6-08d99a94ea2c",
       "version": [
         1,
         0,
         0
       ]
     }
-  ],
-  "capabilities": {
-    "experimental_custom_ui": false,
-    "chemistry": false
-  },
-  "metadata": {
-    "authors": " ",
-    "url": " "
-  }
+  ]
 }
