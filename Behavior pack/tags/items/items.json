@@ -1,0 +1,5 @@
+{
+    "values": [
+        "custom:gas_mask"  // Add your gas mask to the items tag
+    ]
+}
